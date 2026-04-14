@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E1C684" />
+      <stop offset="50%" stop-color="#C29B4E" />
+      <stop offset="100%" stop-color="#A57F32" />
+    </linearGradient>
+  </defs>
+  <!-- Deep Dark Contrast Circle -->
+  <circle cx="50" cy="50" r="48" fill="#0A120D" />
+  
+  <!-- Elegant Monogram A -->
+  <text 
+    x="49" 
+    y="76" 
+    font-family="'Times New Roman', Didot, 'Bodoni MT', Georgia, serif" 
+    font-size="75" 
+    font-weight="normal" 
+    letter-spacing="-2"
+    fill="url(#gold)" 
+    text-anchor="middle"
+  >
+    A
+  </text>
+</svg>

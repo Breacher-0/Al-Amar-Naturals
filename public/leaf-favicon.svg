@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E1C684" />
+      <stop offset="50%" stop-color="#C29B4E" />
+      <stop offset="100%" stop-color="#A57F32" />
+    </linearGradient>
+  </defs>
+  <!-- Premium Dark Circle Tab Background -->
+  <circle cx="50" cy="50" r="48" fill="#0A120D" />
+  
+  <!-- Symmetrical Curvilinear Botanical Leaf -->
+  <path d="M50 18C50 18 20 38 20 62C20 76 35 84 50 84C65 84 80 76 80 62C80 38 50 18 50 18Z" fill="url(#gold)" />
+  
+  <!-- Stem / Center Vein Cutout overlay -->
+  <path d="M50 88 Q46 55 50 18 Q54 55 50 88Z" fill="#0A120D" opacity="0.8"/>
+  
+  <!-- Subtle lateral veins -->
+  <path d="M50 65 L32 50 M50 50 L35 38 M50 65 L68 50 M50 50 L65 38" stroke="#0A120D" stroke-width="1.5" stroke-linecap="round" opacity="0.6" />
+</svg>

@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <!-- title -->
+<title>Alamar Naturals &#8739; الرئيسية</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
+<!-- description -->
+<meta name="description" content="">
+<!-- keywords -->
+<meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, coming soon, faq">
+<meta name="author" content="19 Agency">
+<!-- ::::::::::::::Google / Search Engine Tags::::::::::::::-->
+<meta itemprop="name" content="Alamar Naturals &#8739; الرئيسية">
+<meta itemprop="title" content="Alamar Naturals &#8739; الرئيسية">
+<meta itemprop="description" content="">
+<meta itemprop="image" content="https://alamarnaturals.com/assets/images/default.jpg?rd2u6bs7uopi3rbbhmilj1ar51">
+
+<!-- ::::::::::::::Facebook Meta Tags::::::::::::::-->
+<meta property="og:url" content="https://alamarnaturals.com/ar/home/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Alamar Naturals &#8739; الرئيسية">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://alamarnaturals.com/assets/images/default.jpg?rd2u6bs7uopi3rbbhmilj1ar51">
+
+<!-- ::::::::::::::Twitter Meta Tags::::::::::::::-->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="https://alamarnaturals.com/ar/home/">
+<meta name="twitter:title" content="Alamar Naturals &#8739; الرئيسية">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://alamarnaturals.com/assets/images/default.jpg?rd2u6bs7uopi3rbbhmilj1ar51">
+<!-- favicon -->
+<link rel="shortcut icon" href="../assets/images/logo/favicon.png">
+<link rel="apple-touch-icon" href="../assets/images/logo/57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../assets/images/logo/72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../assets/images/logo/114x114.png">
+<!-- bootstrap css -->
+<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+
+		<!-- PLUGINS STYLESHEET -->
+		<link href="../assets/cssar/menu.css?rd2u6bs7uopi3rbbhmilj1ar51" rel="stylesheet">	
+		<link id="effect" href="../assets/cssar/dropdown-effects/fade-down.css" media="all" rel="stylesheet">
+		<link href="../assets/cssar/tweenmax.css" rel="stylesheet">	
+		<link href="../assets/cssar/magnific-popup.css" rel="stylesheet">	
+		<link href="../assets/cssar/owl.carousel.min.css" rel="stylesheet">
+		<link href="../assets/cssar/flexslider.css" rel="stylesheet">
+		<link href="../assets/cssar/owl.theme.default.min.css" rel="stylesheet">
+		<link href="../assets/cssar/jquery.datetimepicker.min.css" rel="stylesheet">
+	
+		<!-- TEMPLATE CSS -->
+		<link href="../assets/cssar/pink-theme.css?rd2u6bs7uopi3rbbhmilj1ar51" rel="stylesheet">
+
+		<!-- RESPONSIVE CSS -->
+		<link href="../assets/cssar/responsive.css?rd2u6bs7uopi3rbbhmilj1ar51" rel="stylesheet"><link rel="stylesheet" href="">
+<!-- responsive css -->
+<link rel="stylesheet" href="../assets/css/sort-list.css?rd2u6bs7uopi3rbbhmilj1ar51">
+<link rel="stylesheet" href="../assets/css/otek.css?rd2u6bs7uopi3rbbhmilj1ar51">
+<link rel="stylesheet" href="../assets/css/fontawesome-all.css" />
+<!-- ::::::::::::::MAIN CSS::::::::::::::-->
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+
+    <style>
+    :root{
+      --primary: #efa697;
+      --secondary: #d8c2be;
+      --theme: #f0e6e0;
+    }
+    </style>
+    </head>
+
+<body class="ar rtl" data-project="Alamar Naturals" data-return="home">
+
+<!-- PRELOADER SPINNER
+============================================= -->	
+<div id="loader-wrapper">
+    <div id="loading">
+        <div class="cssload-loader">
+            <div class="fancy-spinner">
+                <div class="ring"></div>
+                <div class="ring"></div>
+                <div class="dot"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="page" class="page">
+    
+<!-- HEADER
+============================================= -->
+<header id="header" class="header tra-menu navbar-light">
+  <div class="header-wrapper">
+    <!-- MOBILE HEADER -->
+    <div class="wsmobileheader clearfix">
+      <span class="smllogo mt-5"><img src="../include/attachment/bannergallery/63ce4a212070e3.17984130.png" style="height:75px;object-fit:contain;" alt="mobile-logo" /></span>
+      <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
+    </div>
+    <!-- NAVIGATION MENU -->
+    <div class="wsmainfull menu clearfix">
+      <div class="wsmainwp clearfix">
+        <!-- LOGO IMAGE -->
+        <!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 340 x 100 pixels) -->
+        <div class="desktoplogo"><a href="../home" class="logo-black"><img src="../include/attachment/bannergallery/63ce4a212070e3.17984130.png" style="height:75px;object-fit:contain;" alt="header-logo"></a></div>
+        <div class="desktoplogo"><a href="../home" class="logo-white"><img src="../include/attachment/bannergallery/63ce4a27509291.96880995.png" style="height:75px;object-fit:contain;" alt="header-logo"></a></div>
+        <!-- MAIN MENU -->
+        <nav class="wsmenu clearfix">
+          <ul class="wsmenu-list ">
+                
+        <li class="nl-simple"><a href="../home" title="الرئيسية" class="active">الرئيسية</a></li>
+        
+        <li class="nl-simple"><a href="../about/" title="تعرف علينا" class="">تعرف علينا</a></li>
+        
+        <!-- DROPDOWN MENU -->
+        <li aria-haspopup="true"><a href="#">المنتجات<span class="wsarrow"></span></a>
+            <ul class="sub-menu">
+                    <li aria-haspopup="true"><a href="../view-nourishing-face-cream">كريم الوجه المغذي</a></li>
+                    
+            </ul>
+        </li>	<!-- END DROPDOWN MENU -->
+        
+        <li class="nl-simple"><a href="../contact/" title="تواصل معنا" class="">تواصل معنا</a></li>
+            <li aria-haspopup="true" class=" "><a href="#" class=""><i class="fal fa-language largefont"></i> <i class="fal fa-chevron-down"></i></a>
+        <ul class="sub-menu">
+        <li>
+                <a href="../../en/include/visitorlang.php?lang=en&bpage=home" class="dropdown-item enfont text-left color-gray" style="direction: ltr;">
+                <img src="../include/attachment/language/63d70c90e736b4.66374295.png" style="width:18px;height:12px;object-fit:contain;">
+                &nbsp;English</a></li><li>
+                <a href="../../tr/include/visitorlang.php?lang=tr&bpage=home" class="dropdown-item enfont text-left color-gray" style="direction: ltr;">
+                <img src="../include/attachment/language/6481ceea926927.93064337.png" style="width:18px;height:12px;object-fit:contain;">
+                &nbsp;Türkçe</a></li>        </ul>
+    </li>
+          </ul>
+        </nav> <!-- END MAIN MENU -->
+      </div>
+    </div> <!-- END NAVIGATION MENU -->
+  </div> <!-- End header-wrapper -->
+</header> <!-- END HEADER -->    <!-- HERO-1
+============================================= -->
+<section id="hero-1" class="hero-section division">
+    <!-- SLIDER -->
+    <div class="slider">
+        <ul class="slides">
+            
+                <!-- SLIDE #1 -->
+                <li id="slide-1">
+                    <!-- Background Image -->
+                    <img src="../include/attachment/galleryimage/647889a9ce9918.58507659.jpg" data-image="../include/attachment/galleryimage/647889a9ce9918.58507659.jpg" data-image-v="../include/attachment/galleryimage/647889a9ce9918.58507659.jpg" alt="slide-background" style="background-size: cover;object-fit:cover;">
+                    <!-- Image Caption -->
+                    <div class="caption d-flex align-items-center left-align">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="caption-txt white-color">
+                                        <!-- Title -->
+                                        <h2>إشراقة الجمال الطبيعي...</h2>
+                                        <!-- Text -->
+                                        <p>يغذي البشرة ويكافح الشيخوخة عبر تجديد خلايا الجلد…
+                                        </p>
+                                        <!-- Button -->
+                                        <a href="" class="btn btn-md btn-color-02 tra-white-hover hidden"></a>
+                                    </div>
+                                </div>
+                            </div> <!-- End row -->
+                        </div> <!-- End container -->
+                    </div> <!-- End Image Caption -->
+                </li> <!-- END SLIDE #1 -->
+                
+                <!-- SLIDE #1 -->
+                <li id="slide-1">
+                    <!-- Background Image -->
+                    <img src="../include/attachment/galleryimage/646b726ed5ebe2.95500700.jpg" data-image="../include/attachment/galleryimage/646b726ed5ebe2.95500700.jpg" data-image-v="../include/attachment/galleryimage/6483402ce545e8.68887210.jpg" alt="slide-background" style="background-size: cover;object-fit:cover;">
+                    <!-- Image Caption -->
+                    <div class="caption d-flex align-items-center left-align">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="caption-txt white-color">
+                                        <!-- Title -->
+                                        <h2>كريم  الوجه  المغذي ...</h2>
+                                        <!-- Text -->
+                                        <p>بشرة نضرة وصحية تزيدك وجمالاً وإشراقاً…
+                                        </p>
+                                        <!-- Button -->
+                                        <a href="" class="btn btn-md btn-color-02 tra-white-hover hidden"></a>
+                                    </div>
+                                </div>
+                            </div> <!-- End row -->
+                        </div> <!-- End container -->
+                    </div> <!-- End Image Caption -->
+                </li> <!-- END SLIDE #1 -->
+                
+                <!-- SLIDE #1 -->
+                <li id="slide-1">
+                    <!-- Background Image -->
+                    <img src="../include/attachment/galleryimage/646b7416254391.62633612.jpg" data-image="../include/attachment/galleryimage/646b7416254391.62633612.jpg" data-image-v="../include/attachment/galleryimage/6482ecb3828f78.83277794.jpg" alt="slide-background" style="background-size: cover;object-fit:cover;">
+                    <!-- Image Caption -->
+                    <div class="caption d-flex align-items-center left-align">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="caption-txt white-color">
+                                        <!-- Title -->
+                                        <h2>لمسة الطبيعة الغنية</h2>
+                                        <!-- Text -->
+                                        <p>أطلقي العنان لجمال بشرتك الداخلي بمستحضراتنا الطبيعية...
+                                        </p>
+                                        <!-- Button -->
+                                        <a href="" class="btn btn-md btn-color-02 tra-white-hover hidden"></a>
+                                    </div>
+                                </div>
+                            </div> <!-- End row -->
+                        </div> <!-- End container -->
+                    </div> <!-- End Image Caption -->
+                </li> <!-- END SLIDE #1 -->
+                        </ul>
+    </div> <!-- END SLIDER -->
+</section> <!-- END HERO-1 -->    <!-- ABOUT-1
+============================================= -->
+<section id="about-1" class="bg-color-01 wide-60 about-section division">
+    <div class="container">
+        <div class="row d-flex align-items-center">
+            <!-- IMAGE BLOCK -->
+            <div class="col-md-5 col-lg-6">
+                <div class="img-block left-column pc-10 mb-40">
+                    <img class="img-fluid" src="../include/attachment/galleryimage/646b732b6e7fc3.95022109.jpg" alt="about-image">
+                </div>
+            </div>
+            <!-- TEXT BLOCK -->
+            <div class="col-md-7 col-lg-6">
+                <div class="txt-block right-column pc-15 mb-40">
+                    <!-- Title -->
+                    <h3 class="h3-md txt-color-01">من عمق الطبيعة إلى عمق البشرة...</h3>
+                    <!-- Text -->
+                    <p class="txt-color-05">بدأنا رحلتنا من قلب اسطنبول عام ٢٠١٩ بالبحث عن أنقى المواد الطبيعية وأكثرها  فعالية لنضارة البشرة ونقائها من (زيوت، أعشاب، أزهار، ثمار...)، وعملنا على توظيف أعلى المعايير العلمية بلمسة من الخبرة والإتقان، لاستخلاص وتطبيق خلطات طبيعية متنوعة ناعمة ولطيفة على البشرة.
+لنقدم لكم أجود وأفضل مستحضرات التجميل والعناية الشخصية، لتستمتعوا ببشرة نقية ناعمة أكثر إشراقة وحيوية..                    </p>
+                    <!-- List -->
+                    <ul class="txt-list txt-color-05">
+                                            </ul>
+                </div>
+            </div> <!-- END TEXT BLOCK -->
+        </div> <!-- End row -->
+    </div> <!-- End container -->
+</section> <!-- END ABOUT-1 -->    <!-- ABOUT-4
+============================================= -->
+<section id="about-4" class="bg-color-02 wide-100 about-section division">
+    <div class="container">
+        <!-- SECTION TITLE -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="section-title mb-60 text-center">
+            <!-- Transparent Header -->
+            <h2 class="tra-header txt-color-02">أهدافنا</h2>
+            <!-- Title 	-->
+            <h3 class="h3-xl txt-color-01">مستمرون بشغف لا ينطفئ...</h3>
+            <!-- Text -->
+            <p class="p-lg txt-color-05">ننشر الجمال الطبيعي النقي والمتوهج في كل مكان، إذ نفي بوعودنا لكم في تقديم المستحضرات التجميلية الطبيعية الأعلى جودةً والأكثر مصداقية، ليكون بذلك أسم Alamar Naturals سفيراً للجمال الطبيعي إلى العالم</p>
+        </div>
+    </div>
+</div>        <!-- ABOUT BOX #1 -->
+        <div class="row d-flex align-items-center bg-color-05">
+            <!-- Image -->
+            <div class="col-lg-6 a4-img">
+                <div class="img-block">
+                    <img class="img-fluid" src="../include/attachment/serviceimage/646b735a33b3f5.76898031.jpg" alt="about-image" />
+                </div>
+            </div>
+            <!-- Text -->
+            <div class="col-lg-6 ptb-20">
+                <div id="a4-1" class="abox-2">
+                    <!-- Title -->
+                    <h4 class="h4-sm txt-color-01">أهداف ومبادئ Alamar Naturals:</h4>
+                    <!-- List -->
+                    <ul class="txt-list txt-color-01">
+                        
+                            <li class="list-item">
+                                <i class="fas fa-genderless"></i>
+                                <p>دمج فكرة منتجات العناية بالبشرة الطبيعية مع أعلى معايير التجميل العالمية، فقط باستخدام مكونات طبيعية نقية.
+</p>
+                            </li>
+                            
+                            <li class="list-item">
+                                <i class="fas fa-genderless"></i>
+                                <p>نضمن تحقيق معايير الجودة في كل محطة من رحلة الصناعة بدءاً من انتقاء المواد الطبيعية، وانتهاءً بالتغليف الصديق للبيئه.
+</p>
+                            </li>
+                            
+                            <li class="list-item">
+                                <i class="fas fa-genderless"></i>
+                                <p>نوظف الحداثة والتقانة مع الخبرة والاحترافية وجودة الخامات والمواد الطبيعية.</p>
+                            </li>
+                                                </ul> <!-- End Text List -->
+                    <!-- Button -->
+                    <a href="" class="btn btn-md btn-color-02 tra-01-hover mt-10">اقرا المزيد</a>
+                </div>
+            </div>
+        </div>
+        <!-- ABOUT BOXES WRAPPER -->
+        <div class="abox-2-wrapper">
+            <div class="row d-flex align-items-center">
+                <!-- ABOUT BOX #2 -->
+                <div class="col-lg-6 bg-color-03 white-color">
+                    <div class="row d-flex align-items-center">
+                        <!-- Image -->
+                        <div class="col-md-5 col-lg-6 a4-img">
+                            <div class="img-block">
+                                <img class="img-fluid" src="../include/attachment/serviceimage/646b7377e7db61.61173606.jpg" alt="about-image" />
+                            </div>
+                        </div>
+                        <!-- Text -->
+                        <div class="col-md-7 col-lg-6">
+                            <div id="a4-2" class="abox-2">
+                                <h5 class="h5-md">زيوت عطرية طبيعية</h5>
+                                <p>نعمل على استخدام الزيوت العطرية، المتميزة بعبيرها اللطيف، والتي تعمل على التغلغل داخل طبقات البشرة بشكل عميق لتحقق أقصى قدر من الفعالية.                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ABOUT BOX #3 -->
+                <div class="col-lg-6 bg-color-04 white-color">
+                    <div class="row d-flex align-items-center">
+                        <!-- Image -->
+                        <div class="col-md-5 col-lg-6 a4-img">
+                            <div class="img-block">
+                                <img class="img-fluid" src="../include/attachment/serviceimage/646b7383b7d0e9.60666651.jpg" alt="about-image" />
+                            </div>
+                        </div>
+                        <!-- Text -->
+                        <div class="col-md-7 col-lg-6">
+                            <div id="a4-3" class="abox-2">
+                                <h5 class="h5-md">عبوات صديقة للبيئة</h5>
+                                <p>نعمل على استخدام عبوات أكثر أمانًا للبيئة، يمكن إعادة تدويرها بسهولة دون أن تلحق الضرر والتلوث بالبيئة                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- End row -->
+        </div> <!-- END ABOUT BOXES WRAPPER -->
+    </div> <!-- End container -->
+</section> <!-- END ABOUT-4 -->    <!-- SERVICES-1
+============================================= -->
+<section id="services-1" class="bg-color-01 wide-60 services-section division">
+    <div class="container">
+       <!-- SECTION TITLE -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="section-title mb-60 text-center">
+            <!-- Transparent Header -->
+            <h2 class="tra-header txt-color-02">نجسد إبداع الجمال الطبيعي</h2>
+            <!-- Title 	-->
+            <h3 class="h3-xl txt-color-01">قيمنا</h3>
+            <!-- Text -->
+            <p class="p-lg txt-color-05">لأن الجمال الطبيعي يبدأ من روتين عناية فعال، فقد عملنا على ابتكار منتجات عناية شخصية ذات فعالية عالية وبمكونات
+طبيعية وعطرية، لتنعموا بحماية متكاملة على مدار اليوم...</p>
+        </div>
+    </div>
+</div>        <!-- SERVICES-1 WRAPPER -->
+        <div class="sbox-1-wrapper">
+            <div class="row">
+                
+                    <!-- SERVICE BOX #1 -->
+                    <div class="col-md-4">
+                        <div class="sbox-1">
+                            <!-- Image -->
+                            <img class="img-fluid" src="../include/attachment/serviceimage/63d17a567e26d0.82969079.png" style ="height:70px; object-fit:contain;filter:var(--filterprim);" alt="service-image" />
+                            <!-- Title -->
+                            <h5 class="h5-md txt-color-01">المسؤولية المجتمعية</h5>
+                            <!-- Text -->
+                            <p class="txt-color-05">نهتم بتعزيز  مفاهيم الجمال والعناية، مع الوفاء بمسؤوليتنا المجتمعية، إذ نؤمن أن الجمال الطبيعي أولويتنا</p>
+                        </div>
+                    </div>
+                    
+                    <!-- SERVICE BOX #1 -->
+                    <div class="col-md-4">
+                        <div class="sbox-1">
+                            <!-- Image -->
+                            <img class="img-fluid" src="../include/attachment/serviceimage/63d17d7348f1d3.10537250.png" style ="height:70px; object-fit:contain;filter:var(--filterprim);" alt="service-image" />
+                            <!-- Title -->
+                            <h5 class="h5-md txt-color-01">الاستدامة</h5>
+                            <!-- Text -->
+                            <p class="txt-color-05">نؤكد على أهمية حماية الطبيعة و رد الجميل لها، وعدم الإضرار بها أو الإخلال بتوازنها، وذلك بابتكار منتجات ذات أثر أخضر على البيئة.</p>
+                        </div>
+                    </div>
+                    
+                    <!-- SERVICE BOX #1 -->
+                    <div class="col-md-4">
+                        <div class="sbox-1">
+                            <!-- Image -->
+                            <img class="img-fluid" src="../include/attachment/serviceimage/63d17d968a7630.66897496.png" style ="height:70px; object-fit:contain;filter:var(--filterprim);" alt="service-image" />
+                            <!-- Title -->
+                            <h5 class="h5-md txt-color-01">البحث والتطوير</h5>
+                            <!-- Text -->
+                            <p class="txt-color-05">نسعى لتقديم أفضل وأجود منتجات العناية الشخصية الطبيعية، بالاعتماد على أحدث التقنيات العلمية بتصنيع المنتجات</p>
+                        </div>
+                    </div>
+                                </div> <!-- End row -->
+        </div> <!-- END SERVICES-1 WRAPPER -->
+    </div> <!-- End container -->
+</section> <!-- END SERVICES-1 -->    <!-- BANNER-2
+============================================= -->
+<section id="banner-2" class="bg-fixed wide-100 banner-section division hidden" style="background-image: url(../include/attachment/galleryimage/646b73e4018338.25396912.jpg);">
+    <div class="container">
+        <div class="row">
+            <!-- BANNER TEXT -->
+            <div class="col-md-6 col-lg-5">
+                <div class="banner-2-txt white-color">
+                    <!-- Title -->
+                    <h2>لأن بشرتك تستحق</h2>
+                    <h3 class="h3-sm">أفضل رعاية…</h3>
+                    <!-- Text -->
+                    <p class="p-md"></p>
+                    <!-- Button -->
+                    <a href="" class="btn btn-md btn-color-02 tra-white-hover">اكتشف المزيد</a>
+                </div>
+            </div> <!-- END BANNER TEXT -->
+        </div> <!-- End row -->
+    </div> <!-- End container -->
+</section> <!-- END BANNER-2 -->
+<!-- BANNER-4
+============================================= -->
+<section id="banner-4" class="bg-fixed banner-section division" style="background-image: url(../include/attachment/galleryimage/646b73e4018338.25396912.jpg);">
+    <div class="container">
+        <div class="row">
+            <!-- BANNER TEXT -->
+            <div class="col-lg-12 col-xl-12">
+                <div class="banner-4-txt text-center white-color">
+                    <!-- Title -->
+                    <h3>لأن بشرتك تستحق</h3>
+                    <h3 class="h3-sm">أفضل رعاية…</h3>
+                    <!-- Text -->
+                    <p class="p-md"></p>
+                    <!-- Button -->
+                    <a href="" class="btn btn-md btn-color-02 tra-white-hover">اكتشف المزيد</a>
+                </div>
+            </div> <!-- END BANNER TEXT -->
+        </div> <!-- End row -->
+    </div> <!-- End container -->
+</section> <!-- END BANNER-4 -->    <!-- SERVICES-10
+============================================= -->
+<section id="products" class="bg-color-01 wide-60 services-section division">
+    <div class="container">
+        <!-- SECTION TITLE -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="section-title mb-60 text-center">
+            <!-- Transparent Header -->
+            <h2 class="tra-header txt-color-02">المنتجات</h2>
+            <!-- Title 	-->
+            <h3 class="h3-xl txt-color-01">منتجاتنا المميزة</h3>
+            <!-- Text -->
+            <p class="p-lg txt-color-05">مستخلصة بعناية فائقة من المكونات الطبيعية المغذية للبشرة</p>
+        </div>
+    </div>
+</div>        <!-- SERVICES-10 WRAPPER -->
+        <div class="sbox-10-wrapper">
+            <div class="row flex justify-center">
+                
+                    <!-- SERVICE BOX #1 -->
+                    <div class="col-md-6 col-lg-3">
+                        <div class="sbox-10 bg-white text-center">
+                            <!-- Image -->
+                            <div class="sbox-10-img">
+                                <div class="hover-overlay">
+                                    <img class="img-fluid" src="../include/attachment/products/63f51ae0e47fc1.84342138.jpg" alt="service-image" />
+                                </div>
+                            </div>
+                            <!-- Text -->
+                            <div class="sbox-10-txt plr-15">
+                                <!-- Title -->
+                                <h5 class="h5-sm txt-color-01">كريم الوجه المغذي</h5>
+                                <!-- Text -->
+                                <p class="txt-color-05">كريم نهاري للعناية وتغذية البشرة 
+مهدئ ومرطب يعمل على تجديد الخلايا ومكافحة الشيخوخة</p>
+                                <!-- Button -->
+                                <a href="../view-nourishing-face-cream" class="btn p-sm btn-tra-01 color-02-hover back-fff">اقرا المزيد</a>
+                            </div>
+                        </div>
+                    </div>
+                                </div> <!-- End row -->
+        </div> <!-- END SERVICES-10 WRAPPER -->
+    </div> <!-- End container -->
+</section> <!-- END SERVICES-10 -->    <!-- ABOUT-5
+============================================= -->
+<section id="about-5" class="bg-color-01 pt-10 pb-20 rel about-section division">
+    <div class="container">
+        <div class="row d-flex align-items-center m-row">
+            <!-- ABOUT BANNER -->
+            <div class="about-5-banner bg-color-09 white-color m-bottom">
+                <!-- Title -->
+                <h5 class="h5-xl">تواصل معنا</h5>
+                <!-- Text -->
+                <p>اسطنبول تركيا</p>
+                <!-- List -->
+                <ul class="simple-list w-hours mb-20">
+                    <li class="list-item">
+                        <p><a href="tel:+908502420422" data-whatsapp="908502420422"  class="colorinhirit dark unicode"> +90 850 242 0422 <i class="fal fa-phone"></i></a></p>
+                    </li>
+                    <li class="list-item">
+                        <p><a href="mailto:info@alamarnaturals.com"  class="colorinhirit dark unicode"> info@alamarnaturals.com <i class="fal fa-envelope"></i></a></p>
+                    </li>
+                </ul> <!-- End Text List -->
+                <!-- Button -->
+                <a href="../contact/" class="btn btn-md btn-tra-white white-hover">تواصل الآن</a>
+            </div>
+            <!-- ABOUT IMAGE -->
+            <div class="col-md-12 col-lg-10 offset-lg-2 m-top mr-15 sm-mlr-0">
+                <div class="google-map mb-80">
+                    <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->					
+                    <iframe
+  width="920"
+  height="460"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  src="https://www.google.com/maps/embed/v1/search?key=AIzaSyAxqLP1kQFfl6VvBzJgkjDQSBZEH2HQj7Q&q=ALAMAR&center=40.98593182232449, 28.90497732490256&zoom=17&language=ar">
+</iframe>                </div>
+            </div>
+        </div> <!-- End row -->
+    </div> <!-- End container -->
+</section> <!-- END ABOUT-5 -->    <div class="clonemsg hidden"></div>
+<div id="lightBox" class="lightBox hidden ishidden">
+    <div id="addadminmsg" class="alert text-center font-weight-bold caps"></div>
+</div>
+<!-- FOOTER-1
+============================================= -->
+<footer id="footer-1" class="bg-color-01 footer division ">
+    <div class="container">
+        <!-- FOOTER CONTENT -->
+        <div class="row">
+            <!-- FOOTER INFO -->
+            <div class="col-md-6 col-lg-4 col-xl-5">
+                <div class="footer-info mb-40">
+                    <img src="../include/attachment/bannergallery/63ce4a212070e3.17984130.png"  style="height:60px;object-fit:contain;" alt="footer-logo">
+                    <!-- Footer Contacts -->
+                    <div class="footer-contacts txt-color-05 mt-25">
+                        <!-- Address -->
+                        <p>Zeytinburnu</p>
+                        <p>İstanbul, Türkiye</p>
+                        <!-- Email -->
+                        <p class="foo-email"><a href="mailto:info@alamarnaturals.com"  class="colorinhirit dark unicode"> info@alamarnaturals.com <i class="fal fa-envelope"></i></a></p>
+                        <!-- Phone -->
+                        <p><a href="tel:+908502420422"  class="colorinhirit dark unicode"> +90 850 242 0422 <i class="fal fa-phone"></i></a></p>
+                    </div>
+                </div>
+            </div>
+            <!-- FOOTER LINKS -->
+            <div class="col-md-3 col-lg-2">
+                <div class="footer-links mb-40">
+                    <!-- Title -->
+                    <h6 class="h6-lg txt-color-01">روابط هامة</h6>
+                    <!-- Footer Links -->
+                    <ul class="clearfix txt-color-05">
+                        
+                            <li>
+                                <p><a href=" ../about/">تعرف علينا </a></p>
+                            </li>
+                            
+                            <li>
+                                <p><a href=" ../contact/">تواصل معنا </a></p>
+                            </li>
+                            
+                            <li>
+                                <p><a href=" ../privacy/">سياسة الخصوصية </a></p>
+                            </li>
+                                                </ul>
+                </div>
+            </div>
+            <!-- FOOTER LINKS -->
+            <div class="col-md-3 col-lg-2">
+                <div class="footer-links mb-40">
+                    <!-- Title -->
+                    <h6 class="h6-lg txt-color-01"></h6>
+                    <!-- Footer List -->
+                    <ul class="clearfix txt-color-05">
+                                            </ul>
+                </div>
+            </div>
+            <!-- FOOTER NEWSLETTER FORM -->
+            <div class="col-md-8 col-lg-4 col-xl-3">
+                <div class="footer-form mb-20">
+                    <!-- Title -->
+                    <h6 class="h6-lg txt-color-01">اشترك معنا</h6>
+                    <!-- Text -->
+                    <p class="txt-color-05 mb-20"></p>
+                    <!-- Newsletter Form Input -->
+                    <form class="newsletter-form">
+                        <div class="input-group">
+                            <input type="email" class="form-control" placeholder="البريد الالكتروني" required id="s-email">
+                            <span class="input-group-btn">
+                                <button type="submit" class="btn txt-color-06 mlr-0">
+                                    <i class="far fa-arrow-alt-circle-right"></i>
+                                </button>
+                            </span>
+                        </div>
+                        <!-- Newsletter Form Notification -->
+                        <label for="s-email" class="form-notification"></label>
+                    </form>
+                </div>
+            </div> <!-- END FOOTER NEWSLETTER FORM -->
+        </div> <!-- END FOOTER CONTENT -->
+        <!-- BOTTOM FOOTER -->
+        <div class="bottom-footer txt-color-05">
+            <div class="row d-flex align-items-center">
+                <!-- FOOTER COPYRIGHT -->
+                <div class="col-lg-6">
+                    <div class="footer-copyright">
+                        <p>&copy; جميع الحقوق محفوظة Alamar Naturals 2026<span class="mlr-0 mtb-0 plr-0 ptb-0" style="font-size: 1px;color:transparent;">developed by <a href="https://otek.today" target="_blank" style="font-size: 1px;color:transparent;">ÖTEK Today</a></span></p>
+                    </div>
+                </div>
+                <!-- BOTTOM FOOTER LINKS -->
+                <div class="col-lg-6">
+                    <ul class="bottom-footer-list text-right clearfix flex justify-content-end">
+                        <li class="mlr-5 color-secondary back-transparent rounded-50 flex justify-center align-items-center" style="width:50px; height:50px;"><a href="../facebook" class="colorinhirit flex justify-center align-items-center" target="_blank"><i class="fab fa-facebook-f fa-1x5"></i><span></span></a></li><li class="mlr-5 color-secondary back-transparent rounded-50 flex justify-center align-items-center" style="width:50px; height:50px;"><a href="../instagram" class="colorinhirit flex justify-center align-items-center" target="_blank"><i class="fab fa-instagram fa-1x5"></i><span></span></a></li><li class="mlr-5 color-secondary back-transparent rounded-50 flex justify-center align-items-center" style="width:50px; height:50px;"><a href="../whatsapp" class="colorinhirit flex justify-center align-items-center" target="_blank"><i class="fab fa-whatsapp fa-1x5"></i><span></span></a></li>                    </ul>
+                </div>
+            </div> <!-- End row -->
+        </div> <!-- END BOTTOM FOOTER -->
+    </div> <!-- End container -->
+</footer> <!-- END FOOTER-1 -->
+<div id="scrollTopBtnxx" class="hidden back-primary back-fff-hover border-primary-hover color-fff color-primary-hover rounded-20 justify-center align-items-center" style="filter: drop-shadow(1px 1px 5px #00000080);"><i class="fas fa-long-arrow-alt-up color-fff"></i></div>
+<a href="../whatsapp/" target="_blank" >
+    <div class="socialMediaBtn back-fff-hover border-primary-hover color-fff color-primary-hover rounded-50 justify-center align-items-center" data-bottom="30" data-left="30" style="background-color:#00a884;"><i class="fab fa-whatsapp"></i></div>
+</a>
+<div id="socialcontainerxx" class="hidden">
+    <div id="socialMediaBtnxx" class="back-secondary back-fff-hover border-primary-hover color-fff color-primary-hover rounded-20 justify-center align-items-center" style="filter: drop-shadow(1px 1px 5px #00000080);"><img src="../assets/images/logo/57x57xf.png" style="width:35px;height:35px;object-fit:contain;"></div>
+    <a href="../whatsapp/" target="_blank" >
+        <div class="socialMediaBtn back-fff-hover border-primary-hover color-fff color-primary-hover rounded-20 justify-center align-items-center" data-bottom="67" data-left="30" style="background-color:#00a884;"><i class="fab fa-whatsapp"></i></div>
+    </a>
+    <a href="../messenger/" target="_blank" class="hidden">
+        <div class="socialMediaBtn back-fff-hover border-primary-hover color-fff color-primary-hover rounded-20 justify-center align-items-center" data-bottom="109" data-left="30" style="background-color:#267ff3;"><i class="fab fa-facebook-messenger stroke"></i></div>
+    </a>
+    <a href="../telegram/" target="_blank" class="hidden">
+        <div class="socialMediaBtn back-fff-hover border-primary-hover color-fff color-primary-hover rounded-20 justify-center align-items-center" data-bottom="25" data-left="72" style="background-color:#2481cc;"><i class="fab fa-telegram"></i></div>
+    </a>
+    <a href="../viber/" target="_blank" class="hidden">
+        <div class="socialMediaBtn back-fff-hover border-primary-hover color-fff color-primary-hover rounded-20 justify-center align-items-center" data-bottom="67" data-left="72" style="background-color:#665cac;"><i class="fab fa-viber"></i></div>
+    </a>
+    <a href="tel:+908502420422" target="_blank" data-whatsapp="+908502420422" >
+        <div class="socialMediaBtn back-fff-hover border-primary-hover color-fff color-primary-hover rounded-20 justify-center align-items-center" data-bottom="25" data-left="114" style="background-color:var(--primary);"><i class="fad fa-phone-volume" style="rotate: -45deg;"></i></div>
+    </a>
+</div></div>    
+<div id="clear" data-id="clear"><script src="../assets/js/otek/jquery.min.js?rd2u6bs7uopi3rbbhmilj1ar51"></script>		<script src="../assets/js/jquery-3.4.1.min.js"></script>
+		<script src="../assets/js/bootstrap.min.js"></script>	
+		<script src="../assets/js/modernizr.custom.js"></script>
+		<script src="../assets/js/jquery.easing.js"></script>
+		<script src="../assets/js/jquery.appear.js"></script>
+		<script src="../assets/js/jquery.scrollto.js"></script>	
+		<script src="../assets/js/menu.js"></script>	
+		<script src="../assets/js/materialize.js"></script>
+		<script src="../assets/js/tweenmax.min.js"></script>	
+		<script src="../assets/js/slideshow.js"></script>	
+		<script src="../assets/js/imagesloaded.pkgd.min.js"></script>
+		<script src="../assets/js/isotope.pkgd.min.js"></script>
+		<script src="../assets/js/jquery.flexslider.js"></script>
+		<script src="../assets/js/owl.carousel.min.js"></script>
+		<script src="../assets/js/jquery.magnific-popup.min.js"></script>
+		<script src="../assets/js/hero-form.js"></script>
+		<script src="../assets/js/contact-form.js"></script>
+		<script src="../assets/js/comment-form.js"></script>	
+		<script src="../assets/js/booking-form.js"></script>
+		<script src="../assets/js/jquery.datetimepicker.full.js"></script>	
+		<script src="../assets/js/jquery.validate.min.js"></script>
+		<script src="../assets/js/jquery.ajaxchimp.min.js"></script>	
+				
+		<!-- Custom Script -->		
+		<script src="../assets/js/custom.js"></script>
+<script src="../assets/js/otek/fslightbox.js?rd2u6bs7uopi3rbbhmilj1ar51"></script><script src="../assets/js/otek/flatpickr.js?rd2u6bs7uopi3rbbhmilj1ar51"></script><script src="../assets/js/otek/select2.min.js?rd2u6bs7uopi3rbbhmilj1ar51"></script><script src="../assets/js/otek/sweetalert2.all.min.js?rd2u6bs7uopi3rbbhmilj1ar51"></script><script src="../assets/js/otek/otek.js?rd2u6bs7uopi3rbbhmilj1ar51"></script><script src="../assets/js/otek/mailgo.min.js?rd2u6bs7uopi3rbbhmilj1ar51"></script><script src="../assets/js/otek/sort-list.js?rd2u6bs7uopi3rbbhmilj1ar51"></script><script src="datacontrol.js?rd2u6bs7uopi3rbbhmilj1ar51"></script></div></body>
+
+</html>
